@@ -4,6 +4,7 @@
 
 This project was a demonstration of how to use sequelize and Object-Relational Mapping to connect with a database.
 It was helpful in learning how to make routes with the express router, and practicing CRUD.
+The linking of the tables and then deleting the tables did cause some complications but i managed to figure out how to complete it
 
 ## installation
 
